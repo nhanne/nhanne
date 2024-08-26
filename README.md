@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Nhan!;" />
 </h1>
 
-<h3 align="center">I'm a Full Stack Web Developer</h3>
+<h3 align="center">I'm a Full Stack .NET Developer</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
  🌍 I'm based in Vietnamese 
  
- 🔭 I’m currently working on **SIS Can Tho**
+ 🔭 I’m currently working on **DiaB Healthcare**
 
  <!-- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
  
@@ -30,25 +30,12 @@
   </a>
 </div>
 
-<h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
-
 <p align="center">
   <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
 </p>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
 
-</div>
   <br/><br/><br/>
 <hr/>
-<br>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
 
 
 <h3 align="center">
