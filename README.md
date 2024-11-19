@@ -12,7 +12,7 @@
 
  🌍 I'm based in Vietnamese 
  
- 🔭 I’m currently working on **DiaB Healthcare**
+ 🔭 I’m currently working on **Credit Vision**
 
  <!-- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
  
